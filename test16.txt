@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D03B-3444
+
+ Directory of C:\Users\ekamk\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\Git\Myfolder
+
+14-09-2023  11:27    <DIR>          .
+14-09-2023  11:27    <DIR>          ..
+07-09-2023  10:02               646 index2.html
+01-09-2023  15:45                 0 test.txt.txt
+05-09-2023  14:01               597 test10.txt
+14-09-2023  11:27                 0 test16.txt
+04-09-2023  12:23               455 test3.txt
+04-09-2023  13:14                35 test4.txt
+05-09-2023  13:56                47 test6.txt
+               7 File(s)          1,780 bytes
+               2 Dir(s)  84,587,446,272 bytes free
